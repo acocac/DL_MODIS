@@ -1,4 +1,5 @@
-See repository description. Temporal repository. Notebooks contain comparison between Rußwurm and Körner's (2017) approach using tensorflow and own approach using Theano framed in KERAS.
+Temporal repository partially cloned from
+[The repository contains comparison between Rußwurm and Körner's (2017) approach using tensorflow and own approach using Theano framed in KERAS]
 
 # Recurrent Neural Networks for Multitemporal Crop Identification
 
